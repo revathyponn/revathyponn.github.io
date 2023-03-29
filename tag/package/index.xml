@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package | Navya Dahiya</title>
+    <link>https://academic-demo.netlify.app/tag/package/</link>
+      <atom:link href="https://academic-demo.netlify.app/tag/package/index.xml" rel="self" type="application/rss+xml" />
+    <description>package</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>package</title>
+      <link>https://academic-demo.netlify.app/tag/package/</link>
+    </image>
+    
+    <item>
+      <title>Simplefit</title>
+      <link>https://academic-demo.netlify.app/project/pypkgs/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/pypkgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplerfit</title>
+      <link>https://academic-demo.netlify.app/project/simplerfit/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/simplerfit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
